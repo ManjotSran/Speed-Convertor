@@ -1,0 +1,36 @@
+body{
+    padding: 5px;
+    margin: 2px auto;
+    background: pink;
+}
+.speed{
+    text-align: center;
+    font-weight: bold;
+    width: 25%;
+    background: blue;
+    color: red;
+    margin-left: 35%;
+}
+label{
+    margin-left: 40%;
+    font-weight: bold;
+    font-size: 25px;
+}
+#averageSpeedBtn{
+    margin-left: 40%;
+    background: purple;
+    font-size: 15px;
+    color: white;
+}
+.speedcalc{
+    width: 45%;
+    background: yellow;
+    margin: 5% auto;
+}
+.cal{
+    width: 100%;
+    background: #84ef80;
+    text-align: center;
+    margin-bottom: 2%;
+    font-size: 50px;
+}
